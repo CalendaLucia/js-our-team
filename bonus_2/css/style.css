@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#container, .members-team   {
+    padding: 10px 10px;
+}
+
+.photo {
+    display: none;
+}
