@@ -49,7 +49,7 @@ for (let i = 0; i < member.length; i++) {
 
    console.log("Name: " + member[i].name); 
    console.log("Role: " + member[i].role);
-   console.log("Photo: " + member[i].image.toString());
+   console.log("Photo: " + member[i].image);
    console.log('');
 
    // Stampare le stesse informazioni su DOM sottoforma di stringhe
